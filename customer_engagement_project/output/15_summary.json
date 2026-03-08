@@ -1,0 +1,39 @@
+{
+  "kpi": {
+    "overall_churn_rate": 20.37,
+    "avg_engagement_score": 5.28,
+    "active_members_pct": 51.51,
+    "high_value_disengaged_count": 1247,
+    "silent_premium_churners_count": 371,
+    "avg_products_per_customer": 1.53,
+    "low_vs_high_engagement_churn_gap": 18.69,
+    "product_mix_churn_gap": 92.42
+  },
+  "risk_summary": {
+    "hvd_count": 1247,
+    "hvd_pct_of_portfolio": 12.47,
+    "hvd_churn_rate": 30.47,
+    "non_hvd_churn_rate": 18.93,
+    "hvd_avg_balance": 148857.68,
+    "non_hvd_avg_balance": 66175.41,
+    "hvd_most_common_geo": "France",
+    "hvd_avg_age": 38.11,
+    "silent_premium_count": 371,
+    "silent_premium_avg_salary": 175475.28,
+    "silent_premium_avg_balance": 92084.58,
+    "silent_premium_active_at_churn_pct": 34.77,
+    "silent_premium_has_card_pct": 65.77,
+    "silent_premium_common_geo": "France"
+  },
+  "data_quality": {
+    "rows": 10000,
+    "columns": 24,
+    "duplicate_rows": 0,
+    "null_cells": 0
+  },
+  "salary_quartile_cutoffs": {
+    "q1": 51002.11,
+    "q2": 100193.91,
+    "q3": 149388.25
+  }
+}

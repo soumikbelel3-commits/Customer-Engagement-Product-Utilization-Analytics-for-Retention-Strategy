@@ -1,0 +1,15 @@
+column,data_type,total_records,null_count,null_pct,unique_values,sample_or_range
+Year,int64,10000,0,0.0,1,2025 - 2025
+CustomerId,int64,10000,0,0.0,10000,15565701 - 15815690
+Surname,object,10000,0,0.0,2932,Smith
+CreditScore,int64,10000,0,0.0,460,350 - 850
+Geography,object,10000,0,0.0,3,France
+Gender,object,10000,0,0.0,2,Male
+Age,int64,10000,0,0.0,70,18 - 92
+Tenure,int64,10000,0,0.0,11,0 - 10
+Balance,float64,10000,0,0.0,6382,0.0 - 250898.09
+NumOfProducts,int64,10000,0,0.0,4,1 - 4
+HasCrCard,int64,10000,0,0.0,2,0 - 1
+IsActiveMember,int64,10000,0,0.0,2,0 - 1
+EstimatedSalary,float64,10000,0,0.0,9999,11.58 - 199992.48
+Exited,int64,10000,0,0.0,2,0 - 1
